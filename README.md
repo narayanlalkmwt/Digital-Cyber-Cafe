@@ -69,8 +69,3 @@ The `script.js` file includes:
 - Safari (latest)
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
-
-**Created**: December 2025  
-**Last Updated**: December 12, 2025
-
-Your complete document solutions partner! 📄✨
